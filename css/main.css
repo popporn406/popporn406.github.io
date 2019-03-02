@@ -11,7 +11,7 @@ h2 {
     font-size: 24px;
     text-transform: uppercase;
     /*color: #303030;*/
-    color: #00838f;;
+    color: #35C987;;
     font-weight: 600;
     margin-bottom: 15px;
 }
@@ -38,12 +38,12 @@ h5 {
 }
 .logo-small {
     /*color: #f4511e;*/
-    color: #00838f;
+    color: #35C987;
     font-size: 50px;
 }
 .logo {
     /*color: #f4511e;*/
-    color: #00838f;
+    color: #35C987;
     font-size: 200px;
 }
 .thumbnail {
@@ -120,7 +120,7 @@ h5 {
 .navbar {
     margin-bottom: 0;
     /*background-color: #484848;*/
-    background-color: #00838f;
+    background-color: #35C987;
     z-index: 1;
     border: 0;
     font-size: 12px !important;
@@ -136,7 +136,7 @@ h5 {
 }
 .navbar-nav li a:hover, .navbar-nav li.active a{
     /*color: #484848 !important;*/
-    color: #00838f !important;
+    color: #35C987 !important;
     background-color: #fff !important;
 }
 .navbar-default .navbar-toggle {
@@ -145,7 +145,7 @@ h5 {
 }
 
 .open .dropdown-toggle {
-    color: #00838f;
+    color: #35C987;
     background-color: #fff !important;
 }
 
@@ -156,7 +156,7 @@ h5 {
 }
 
 .dropdown-menu li a {
-    color: #00838f !important;
+    color: #35C987 !important;
     background-color: #fff !important;
 }
 
@@ -171,7 +171,7 @@ footer .glyphicon {
     font-size: 20px;
     margin-bottom: 20px;
     /*color: #484848;*/
-    color: #00838f;
+    color: #35C987;
 }
 .slideanim {visibility:hidden;}
 .slide {
@@ -218,7 +218,7 @@ footer .glyphicon {
 }
 /*Header section*/
 .header-section {
-  background-image: url("../img/cover-pic.jpg");
+  background-image: url("../img/header-pic.jpg");
   height: 430px;
   min-height: 100%;
   background-position: center;
@@ -263,5 +263,5 @@ footer .glyphicon {
   color: #ffffff;
 }
 .services-container-overlay {
-    background-color: rgba(0, 0, 0, 0.5);
+    background-color: rgba(0, 0, 0, 0.8);
 }
